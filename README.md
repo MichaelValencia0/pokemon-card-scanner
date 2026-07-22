@@ -1,2 +1,15 @@
-# pokemon-card-scanner
-TCG card scanner that identifies cards and monitors inventory with live market values.
+TCG Scanner
+│
+├── Camera
+│
+├── Card Detection
+│
+├── Image Processing
+│
+├── Card Recognition
+│
+├── Price Lookup
+│
+├── Inventory
+│
+└── User Interface
