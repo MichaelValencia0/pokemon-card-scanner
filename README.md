@@ -1,3 +1,4 @@
+```
 TCG Scanner
 │
 ├── Camera
@@ -13,3 +14,4 @@ TCG Scanner
 ├── Inventory
 │
 └── User Interface
+```
