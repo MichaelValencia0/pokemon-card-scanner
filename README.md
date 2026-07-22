@@ -1,16 +1,23 @@
 ```
 #TCG Scanner
-Scans pokemon cards, process images to idenitfy the card and runs a match to pull current market price.
+Scans pokemon tcg cards, process images to idenitfy each card and retrieves current market price.
 
-##Development
-- [] Camera feed
-- [] Card contour detection
-- [] Perspective correction
-- [] OCR
-- [] Card matching
-- [] API integration
-- [] Inventory database
+## Technologies
+- C++
+- OpenCV
+- Git
+- Visual Studio 2022
 
+## Development Progress
+- [ ] Camera feed
+- [ ] Card contour detection
+- [ ] Perspective correction
+- [ ] OCR
+- [ ] Card matching
+- [ ] API integration
+- [ ] Inventory database
+
+## Project Architecture
 TCG Scanner
 │
 ├── Camera
@@ -26,4 +33,11 @@ TCG Scanner
 ├── Inventory
 │
 └── User Interface
+
+## Future Improvements
+
+- Bulk card scanning
+- Faster card matching
+- Inventory search
+- Export inventory to CSV
 ```
