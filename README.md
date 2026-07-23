@@ -9,7 +9,7 @@ Scans pokemon tcg cards, process images to idenitfy each card and retrieves curr
 - Visual Studio 2022
 
 ## Development Progress
-- [ ] Camera feed
+- [x] Camera feed
 - [ ] Card contour detection
 - [ ] Perspective correction
 - [ ] OCR
